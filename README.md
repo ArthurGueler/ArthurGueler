@@ -1,29 +1,33 @@
+# Arthur Gueler
 
-### Olá Eu sou o Arthur Gueler 👋
+**Analista de Software na I9 Engenharia.** Construo sistemas que automatizam a operação e as vendas de negócios reais, do banco de dados ao WhatsApp.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-gueler-423904300/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-arthurgueler.com.br-8E1B32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arthurgueler.com.br)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igr.arthur/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8E1B32?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-gueler-423904300/)
+[![E-mail](https://img.shields.io/badge/arthur@astralcherry.com.br-8E1B32?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur@astralcherry.com.br)
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurGueler&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGueler&layout=compact)
+## Projetos em destaque
 
+| Projeto | O que resolve |
+| --- | --- |
+| [**CRM AstralCherry**](https://arthurgueler.com.br/trabalhos/crm-astralcherry) | Encontra negócios locais que precisam de ajuda digital e organiza todo o contato com eles. |
+| [**Frotas**](https://arthurgueler.com.br/trabalhos/frotas) | Tudo sobre os veículos da empresa numa tela: quilometragem, manutenção, pneus, combustível e custos. |
+| [**Valentina Finance**](https://arthurgueler.com.br/trabalhos/valentina-finance) | Quanto ainda dá pra gastar até a fatura fechar? O Valentina responde. |
+| [**USB Agent I9**](https://arthurgueler.com.br/trabalhos/usb-agent-i9) | Sabe em tempo real qual equipamento está ligado em cada computador da empresa. |
+| [**Radar de Prospecção por CNPJ**](https://arthurgueler.com.br/trabalhos/radar-prospeccao-cnpj) | Mostra pra uma equipe de vendas quais empresas acabaram de abrir na região. |
 
-### Tecnologias que uso no meu dia
+Detalhes, arquitetura e telas de cada um em **[arthurgueler.com.br](https://arthurgueler.com.br)**.
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img align="center" alt="csharp" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="csharp" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+## Stack
 
-</div>
-
-
-Entusiasta de tecnologia, buscando criar inovações que fazem a diferença
-
-"A simplicidade é a alma da eficiência." – Austin Freeman
-
-🌐 Portfólio: [arthurgueler.com.br](https://arthurgueler.com.br)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-1a1a1a?style=flat-square&logo=fastify&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-1a1a1a?style=flat-square&logo=astro&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-1a1a1a?style=flat-square&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1a1a1a?style=flat-square&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1a1a1a?style=flat-square&logo=cloudflare&logoColor=white)
