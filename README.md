@@ -2,10 +2,11 @@
 ### Olá Eu sou o Arthur Gueler 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-gueler-423904300/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-arthurgueler.com.br-8E1B32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arthurgueler.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igr.arthur/)
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurGueler-dev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGueler-dev&layout=compact)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurGueler&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGueler&layout=compact)
 
 
 ### Tecnologias que uso no meu dia
@@ -25,4 +26,4 @@ Entusiasta de tecnologia, buscando criar inovações que fazem a diferença
 
 "A simplicidade é a alma da eficiência." – Austin Freeman
 
-https://github.com/ArthurGueler-dev/arthurgueler.github.io
+🌐 Portfólio: [arthurgueler.com.br](https://arthurgueler.com.br)
