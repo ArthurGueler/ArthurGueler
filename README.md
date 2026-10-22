@@ -1,6 +1,8 @@
 # Arthur Gueler
 
-**Analista de Software na I9 Engenharia.** Construo sistemas que automatizam a operação e as vendas de negócios reais, do banco de dados ao WhatsApp.
+**Analista de Software na I9 Engenharia.** Desenvolvo sistemas que conectam processos, equipes e operações.
+Automação e integrações aplicadas para reduzir trabalho manual e aumentar eficiência.
+Fundador da AstralCherry..
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-arthurgueler.com.br-8E1B32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arthurgueler.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8E1B32?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-gueler-423904300/)
